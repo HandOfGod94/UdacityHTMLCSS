@@ -5,14 +5,20 @@
 	box-sizing: border-box;
 }
 
+.title{
+	background-color: #33BBEE;
+}
+
 .app{
 	display: flex;
 }
 
 .image{
+	margin-right: 25px;
 	max-width: 460px;
 }
 
 .description{
 	max-width: 705px;
+	font-family: Cantarell, Arial, sans-serif;
 }
